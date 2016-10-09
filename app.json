@@ -1,0 +1,7 @@
+{
+  "name": "Slack-Outgoing-Webhook",
+  "description": "A barebones Node.js app using Express 4 to build an outgoing webhook for slack",
+  "repository": "https://github.com/alex-kwan/Slack-Outgoing-Webhook",
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+  "keywords": ["node", "express", "static", "slack", "webhook"]
+}
